@@ -23,7 +23,7 @@ I love tweaking my environment and creating things which are useful.
 <br>
 <br>
 
-### 📊 Stats
+## 📊 Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Ressobe&show_icons=true&theme=onedark)
 
