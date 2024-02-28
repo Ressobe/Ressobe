@@ -8,7 +8,7 @@
 <br/>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,bun,nodejs,tailwind,git,github,postgres,mysql,bash,linux,neovim,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,bun,tailwind,neovim,git,github,postgres,mysql,bash,linux)](https://skillicons.dev)
 
 <br/>
 <br/>
