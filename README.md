@@ -16,4 +16,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ressobe&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Ressobe&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ressobe&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=project-moodle-RaP-STEAM)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ressobe&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=moodle-RaP-STEAM)
